@@ -1,0 +1,7 @@
+venv
+
+# PYCHARM
+.idea
+
+# JIRA plugin
+atlassian-ide-plugin.xml
