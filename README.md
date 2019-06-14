@@ -85,3 +85,7 @@ Read Files and apply String Manipulation
 
 ### Misc
 * you can print dicts as pretty JSON for example like this ```json.dumps(dic, indent=4)```
+
+### Links and Libraries to test
+[Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
+[Automagica](https://automagica.readthedocs.io/) [Automagica Github](https://github.com/OakwoodAI/Automagica)
