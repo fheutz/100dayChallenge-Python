@@ -2,6 +2,6 @@ venv
 
 # PYCHARM
 .idea
-
+venv
 # JIRA plugin
 atlassian-ide-plugin.xml
