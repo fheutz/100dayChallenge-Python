@@ -98,7 +98,7 @@ pp = pprint.PrettyPrinter(indent=4)
 # Config for POE
 league = "legion"
 account = "Drayasha"
-cookie = {'': ''}
+cookie = {'POESESSID': ''}
 stashNo = 2
 url = "https://www.pathofexile.com/character-window/get-stash-items?league=" + league + "&tabs=1&tabIndex=" + str(stashNo) + "&accountName=" + account
 
