@@ -1,0 +1,8 @@
+{
+"proxies" : {
+  "http": "",
+  "https": ""
+},
+"account" : "",
+"cookie" : {"POESESSID": ""}
+}

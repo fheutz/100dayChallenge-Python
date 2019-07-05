@@ -2,6 +2,9 @@ venv
 
 # PYCHARM
 .idea
-venv
+
+# config
+/code/005_poe/creds.json
+
 # JIRA plugin
 atlassian-ide-plugin.xml
