@@ -1,0 +1,45 @@
+{
+  "category": {
+    "accessories": [
+      "ring"
+    ]
+  },
+  "corrupted": true,
+  "explicitMods": [
+    "Adds 5 to 11 Fire Damage to Attacks",
+    "Adds 13 to 21 Cold Damage to Attacks",
+    "18% increased Lightning Damage",
+    "Adds 2 to 33 Lightning Damage to Attacks",
+    "28% increased Mana Regeneration Rate",
+    "+36% to Lightning Resistance"
+  ],
+  "frameType": 2,
+  "h": 1,
+  "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TopazSapphire.png?scale=1&w=1&h=1&v=b7334698bf04b28f755467f256a3276b",
+  "id": "612770d4c41a0a3ac0b77cbc32f9eae1fb16f6d068528e15d11d97706bd49b2c",
+  "identified": true,
+  "ilvl": 65,
+  "implicitMods": [
+    "+15% to Cold and Lightning Resistances"
+  ],
+  "inventoryId": "Stash3",
+  "league": "Legion",
+  "name": "Cataclysm Grip",
+  "requirements": [
+    {
+      "displayMode": 0,
+      "name": "Level",
+      "values": [
+        [
+          "48",
+          0
+        ]
+      ]
+    }
+  ],
+  "typeLine": "Two-Stone Ring",
+  "verified": false,
+  "w": 1,
+  "x": 0,
+  "y": 16
+}

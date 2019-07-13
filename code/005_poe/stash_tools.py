@@ -1,9 +1,12 @@
 import json
 import requests
 from items import *
+import pprint
 
 with open('creds.json') as json_data_file:
     config = json.load(json_data_file)
+
+pp = pprint.PrettyPrinter(indent=4)
 
 # Config for POE
 league = "legion"
@@ -22,4 +25,3 @@ def load_stash():
 
 for item in load_stash():
     get_price(item)
-
